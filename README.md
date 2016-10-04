@@ -5,4 +5,4 @@
 
 [https://github.com/martinsolent/adobe_After_Effects_Turorial/blob/master/AE_Walk_Thru/Adobe_After_Effects.md](Getting Started with Adobe Effects)
 
-[https://helpx.adobe.com/uk/after-effects/how-to/what-is-after-effects-cc.html](https://helpx.adobe.com/uk/after-effects/how-to/what-is-after-effects-cc.html)
+[adobe_After_Effects_Turorial/AE_Walk_Thru/Adobe_After_Effects.md](Getting Started with Adobe After Effects CC)
