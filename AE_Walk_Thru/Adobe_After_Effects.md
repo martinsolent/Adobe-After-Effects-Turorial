@@ -13,7 +13,7 @@ or double click the Project Panel
 
 ![](AE_IMAGES/dould_click_project_panel.png)
 
-or Drag and Drop to Project Panel
+or Drag and Drop from open folder or desktop to Project Panel
 
 Asset is now in Project Panel. Note it displays info such as size and colour
 
@@ -35,7 +35,7 @@ or Drag Drop from folder or desktop to import asset to the New Composition at th
 
 ![](AE_IMAGES/drag_new_cop.jpg)
 
-Adject Composition Setting at anytime:
+Adjust Composition Setting at anytime:
 
 Composition > Composition Setting >
  
@@ -65,7 +65,7 @@ PSD file now imported - note a Composition has been created and the Layers are i
 
 ![](AE_IMAGES/drag_to_time_line.jpg)
 
-The scale item with selection tool
+Then scale item with selection tool
 
 ![](AE_IMAGES/then_scale_item.png)
 
@@ -74,11 +74,11 @@ or press S on keyboard and use drag over the Scale percentage values in timeline
 ![](AE_IMAGES/scale in timeline.png)
 
 ## Timeline Layer Structure
-Add 3 shapes to Composition. Make sure you do not have shape selected betore adding new shape as it will be place on the selected layer not a new one.
+Add 3 shapes to Composition. Make sure you do not have shape selected before adding new shape as it will be placed on the selected layer not a new one.
 
 ![](AE_IMAGES/shapes_tool.png)
 
-Colour label them, change their time length and when the appear disappear.
+Add a colour label, change their time length and show/hide layer
 
 ![](AE_IMAGES/Layer_Stucture.png)
 
@@ -93,12 +93,21 @@ Colour label them, change their time length and when the appear disappear.
  
  ![](AE_IMAGES/time_dia.png)
  
+## Anchor Point
+Move the item point on an object - Select Anchor Tool from the Tool Bar 
+
+![](AE_IMAGES/auchor_point_tool.png)
+
+and drag the Centre Point on the Object.
+
+![](AE_IMAGES/auchor_point_on Image.png)
+
 ## Animate - Move
-Create shape and make it 10secs in the Timeline - either Drag ir with the mouse or Stretch Time as above.
+Create a shape and make it 10secs in the Timeline - either Drag it with the mouse or Stretch Time as above.
 
  ![](AE_IMAGES/animate_move1.png)
  
-Press P on the Keyboard to bring up postioning in the Timeline.
+Press P on the Keyboard to bring up Positioning in the Timeline.
  
 ![](AE_IMAGES/Postition in Timeline.png)
 
@@ -112,18 +121,8 @@ Move Playback head to where you want the movement to stop.
 
 You might need to move centre point to the centre of the shape as above.
 
-
-## Anchor Point
-Move the item point on an object - Select Anchor Tool from the Tool Bar 
-
-![](AE_IMAGES/auchor_point_tool.png)
-
-and drag the Centre Point on the Object.
-
-![](AE_IMAGES/auchor_point_on Image.png)
-
 ## Change Rendering Options
-Lower the Rendering to either a Third or Half to spend After Effects up and change to Full to see a full quality preview.
+Lower the Rendering to either a Third or Half to speed After Effects up and change to Full to see a full quality preview.
 
 ![](AE_IMAGES/take_down_render.png)
 
