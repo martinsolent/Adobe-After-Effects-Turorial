@@ -3,4 +3,4 @@
 
 ![] (AE_Walk_Thru/AE_IMAGES/Adobe_After_Effects_CS6_Icon.png)
 
-[Adode After Effects Tutorial](AE_Walk_Thru/Adobe_After_Effects.md)
+[Adobe After Effects Tutorial](AE_Walk_Thru/Adobe_After_Effects.md)
