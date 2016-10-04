@@ -72,3 +72,59 @@ The scale item with selection tool
 or press S on keyboard and use drag over the Scale percentage values in timeline.
 
 ![](AE_IMAGES/scale in timeline.png)
+
+## Timeline Layer Structure
+Add 3 shapes to Composition. Make sure you do not have shape selected betore adding new shape as it will be place on the selected layer not a new one.
+
+![](AE_IMAGES/shapes_tool.png)
+
+Colour label them, change their time length and when the appear disappear.
+
+![](AE_IMAGES/Layer_Stucture.png)
+
+## Layer Time Stretch
+ You can increase or decrease the length of a layer block:
+ 
+ Layer > Time > Time Stretch
+ 
+ ![](AE_IMAGES/layer_time_sketch.png)
+ 
+ Then adjust the time in the dialogue box
+ 
+ ![](AE_IMAGES/time_dia.png)
+ 
+## Animate - Move
+Create shape and make it 10secs in the Timeline - either Drag ir with the mouse or Stretch Time as above.
+
+ ![](AE_IMAGES/animate_move1.png)
+ 
+Press P on the Keyboard to bring up postioning in the Timeline.
+ 
+![](AE_IMAGES/Postition in Timeline.png)
+
+Add Keyframe by clicking on the Stop Watch icon
+
+ ![](AE_IMAGES/add_keyframe.png)
+ 
+Move Playback head to where you want the movement to stop.
+
+![](AE_IMAGES/move_playback on.png)
+
+You might need to move centre point to the centre of the shape as above.
+
+
+## Anchor Point
+Move the item point on an object - Select Anchor Tool from the Tool Bar 
+
+![](AE_IMAGES/auchor_point_tool.png)
+
+and drag the Centre Point on the Object.
+
+![](AE_IMAGES/auchor_point_on Image.png)
+
+## Change Rendering Options
+Lower the Rendering to either a Third or Half to spend After Effects up and change to Full to see a full quality preview.
+
+![](AE_IMAGES/take_down_render.png)
+
+## 
