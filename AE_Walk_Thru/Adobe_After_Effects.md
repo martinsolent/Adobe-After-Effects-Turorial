@@ -15,7 +15,7 @@ or double click the Project Panel
 
 or Drag and Drop to Project Panel
 
-Asset is now in Project Panel. Note it display info such as size and colour
+Asset is now in Project Panel. Note it displays info such as size and colour
 
 ![](AE_IMAGES/img_in_project_pannel.png)
 
@@ -31,7 +31,7 @@ Set the Composition Setting to the required Output
 
 ![](AE_IMAGES/new_comp.png)
 
-or Drag Drap and Imported Assest to the New Composition at the bottom of the Project Panel
+or Drag Drop from folder or desktop to import asset to the New Composition at the bottom of the Project Panel
 
 ![](AE_IMAGES/drag_new_cop.jpg)
 
