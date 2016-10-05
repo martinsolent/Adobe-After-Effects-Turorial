@@ -107,6 +107,8 @@ Create a shape and make it 10secs in the Timeline - either Drag it with the mous
 
  ![](AE_IMAGES/animate_move1.png)
  
+You might need to move centre point to the centre of the shape as above. Do this BEFORE YOU ADD KEYFRAMES
+ 
 Press P on the Keyboard to bring up Positioning in the Timeline.
  
 ![](AE_IMAGES/Postition in Timeline.png)
@@ -121,9 +123,14 @@ Move Playback head to where you want the movement to stop.
 
 You might need to move centre point to the centre of the shape as above.
 
+X & Y 
+
+![](AE_IMAGES/Postition in Timeline.png)
+
 ## Change Rendering Options
 Lower the Rendering to either a Third or Half to speed After Effects up and change to Full to see a full quality preview.
 
 ![](AE_IMAGES/take_down_render.png)
+
 
 ## 
