@@ -174,3 +174,8 @@ and click the path to convert to a straight path.
 To create more realistic path follow use the Auto-Orient from the layer menu.
 
 ![](AE_IMAGES/auto_or.png)
+
+## Add and Edit Sound
+Just drag and drop a sound file either MP3 or WAV onto the Project Panel then drag and drop onto the timeline. You can crop sound in the timeline by using keyboard short cut:  **Command Shift D** (APPLE MAC) or **Control Shift D** (WINDOWS), but Ideally it is best to edit sound to the right length before you bring it into After Affects. 
+
+![](AE_IMAGES/edit_sound.png)
