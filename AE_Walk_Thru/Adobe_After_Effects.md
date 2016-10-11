@@ -1,11 +1,9 @@
 # Adobe After Effects
-<<<<<<< HEAD
-=======
+
 ![](AE_IMAGES/AE_banner.png)
 
 This is a basic introduction to get up and running using Adobe After Affects CC
 
->>>>>>> origin/master
 ## Workspace
 ![](AE_IMAGES/AE_Work_Space.jpg)
 
