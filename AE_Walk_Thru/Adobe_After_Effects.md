@@ -1,4 +1,11 @@
 # Adobe After Effects
+<<<<<<< HEAD
+=======
+![](AE_IMAGES/AE_banner.png)
+
+This is a basic introduction to get up and running using Adobe After Affects CC
+
+>>>>>>> origin/master
 ## Workspace
 ![](AE_IMAGES/AE_Work_Space.jpg)
 
@@ -132,4 +139,46 @@ Lower the Rendering to either a Third or Half to speed After Effects up and chan
 ![](AE_IMAGES/take_down_render.png)
 
 
-## 
+## Adding Solid (Colour Filled Layers)
+Right Mouse in Project Panel Import > Solid
+
+![](AE_IMAGES/right_mouse_new_solid.png)
+
+Adjust settings in the Solid dialogue panel and click OK
+
+![](AE_IMAGES/solid_panel.png)
+
+Solid will appear in Project Panel - Drag and Drop to your Composition
+
+![](AE_IMAGES/drag_solid_to_comp.png)
+
+You can open the solid dialogue panel from the layer menu to edit it
+
+![](AE_IMAGES/solid_settings_menu.png)
+
+## Correct Curved Path Between Keyframes
+
+![](AE_IMAGES/first_path.png)
+
+You might find that after you have made an initial straight motion path (above) between keyframes the next keyframe will have a curved path (below)
+
+![](AE_IMAGES/curved_path.png)
+
+Select the Convert Vertex Tool From the Pen Tools 
+
+![](AE_IMAGES/convert_tool.png)
+
+and click the path to convert to a straight path.
+
+![](AE_IMAGES/straight_path.jpg)
+
+## Object Following the Path (Banking)
+
+To create more realistic path follow use the Auto-Orient from the layer menu.
+
+![](AE_IMAGES/auto_or.png)
+
+## Add and Edit Sound
+Just drag and drop a sound file either MP3 or WAV onto the Project Panel then drag and drop onto the timeline. You can crop sound in the timeline by using keyboard short cut:  **Command Shift D** (APPLE MAC) or **Control Shift D** (WINDOWS), but Ideally it is best to edit sound to the right length before you bring it into After Affects. 
+
+![](AE_IMAGES/edit_sound.png)
