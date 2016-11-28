@@ -10,4 +10,4 @@
 
 
 
-![] (AE_Walk_Thru/AE_IMAGES/ScreenFlowgg4444)
+![] (AE_Walk_Thru/AE_IMAGES/ScreenFlowgg4444.gif)
