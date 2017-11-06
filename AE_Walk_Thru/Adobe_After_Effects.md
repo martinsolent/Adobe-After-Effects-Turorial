@@ -51,7 +51,7 @@ Composition > Composition Setting >
 
 Import Photoshop File as explained above
 
-There is an option top Merge Layer Styles.
+There is an option to Merge Layer Styles.
 
 Make sure you change Import Kind to: Composition - Retain Layer Sizes, if you do not do this each Layer item willl have a large transparent area of the same size as the composition.
 
@@ -69,7 +69,7 @@ PSD file now imported - note a Composition has been created and the Layers are i
 
 ![](AE_IMAGES/drag_to_time_line.jpg)
 
-Then scale item with selection tool
+Then scale item with Selection Tool
 
 ![](AE_IMAGES/then_scale_item.png)
 
@@ -78,7 +78,7 @@ or press S on keyboard and use drag over the Scale percentage values in timeline
 ![](AE_IMAGES/scale in timeline.png)
 
 ## Timeline Layer Structure
-Add 3 shapes to Composition. Make sure you do not have shape selected before adding new shape as it will be placed on the selected layer not a new one.
+Add 3 shapes to Composition. Make sure you do not have a shape selected before adding a new shape as it will be placed on the selected layer, and not a new one.
 
 ![](AE_IMAGES/shapes_tool.png)
 
@@ -98,11 +98,11 @@ Add a colour label, change their time length and show/hide layer
  ![](AE_IMAGES/time_dia.png)
  
 ## Anchor Point
-Move the item point on an object - Select Anchor Tool from the Tool Bar 
+To move the Anchor Point on an object - Select Anchor Tool from the Tool Bar 
 
 ![](AE_IMAGES/auchor_point_tool.png)
 
-and drag the Centre Point on the Object.
+and drag the Centre Point on the object to a new postition.
 
 ![](AE_IMAGES/auchor_point_on Image.png)
 
@@ -111,7 +111,7 @@ Create a shape and make it 10secs in the Timeline - either Drag it with the mous
 
  ![](AE_IMAGES/animate_move1.png)
  
-You might need to move centre point to the centre of the shape as above. Do this BEFORE YOU ADD KEYFRAMES
+You might need to move Anchor Point to the centre of the shape as above. Do this BEFORE YOU ADD KEYFRAMES
  
 Press P on the Keyboard to bring up Positioning in the Timeline.
  
@@ -125,7 +125,7 @@ Move Playback head to where you want the movement to stop.
 
 ![](AE_IMAGES/move_playback on.png)
 
-You might need to move centre point to the centre of the shape as above.
+You might need to move Anchor Point to the centre of the shape as above.
 
 X & Y 
 
@@ -172,7 +172,7 @@ and click the path to convert to a straight path.
 
 ## Object Following the Path (Banking)
 
-To create more realistic path follow use the Auto-Orient from the layer menu.
+To create more realistic path follow use the Auto-Orient from the layer menu. LAYER> TRANSFORM> Auto-Orient
 
 ![](AE_IMAGES/auto_or.png)
 
@@ -180,3 +180,4 @@ To create more realistic path follow use the Auto-Orient from the layer menu.
 Just drag and drop a sound file either MP3 or WAV onto the Project Panel then drag and drop onto the timeline. You can crop sound in the timeline by using keyboard short cut:  **Command Shift D** (APPLE MAC) or **Control Shift D** (WINDOWS), but Ideally it is best to edit sound to the right length before you bring it into After Affects. 
 
 ![](AE_IMAGES/edit_sound.png)
+
